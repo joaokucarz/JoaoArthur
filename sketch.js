@@ -3,6 +3,8 @@ let xBolinha = 300;
 let yBolinha = 200;
 let diametro = 45;
 let raio = diametro/2
+
+//variáveis de movimento
 let velocidadeXBolinha = 1;
 let velocidadeYBolinha = 1;
 
